@@ -1,0 +1,29 @@
+{
+    "Manipulator": {
+        "checkpoints": [
+            {
+                "steps": 3071,
+                "file_path": "results\\eighthRoboCatch\\Manipulator\\Manipulator-3071.onnx",
+                "reward": -0.9997251837888884,
+                "creation_time": 1702004614.2543323,
+                "auxillary_file_paths": [
+                    "results\\eighthRoboCatch\\Manipulator\\Manipulator-3071.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3071,
+            "file_path": "results\\eighthRoboCatch\\Manipulator.onnx",
+            "reward": -0.9997251837888884,
+            "creation_time": 1702004614.2543323,
+            "auxillary_file_paths": [
+                "results\\eighthRoboCatch\\Manipulator\\Manipulator-3071.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.1+cu121"
+    }
+}
